@@ -1,0 +1,197 @@
+/* Self-contained Peeking Eyes Doodle widget; generated from editable SVG. */
+(() => {
+  const tagName = "peek-open-book";
+  const artwork = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1024\" height=\"1024\" viewBox=\"0 0 1024 1024\">\n  <title>Peepables \u2014 open book</title>\n  <desc>Native vector contours matched to the supplied reference, with independently editable tracking eyes.</desc>\n  <g transform=\"translate(108.0656 288.9945) scale(2.103825)\" stroke=\"none\">\n    <path id=\"white-silhouette\" fill=\"#FFFFFF\" d=\"M 266 7.5 Q 266 7 277.5 7.5 Q 289 8 289 8.5 Q 289 9 293 9.5 Q 297 10 301 12 Q 305 14 306 16 Q 307 18 308 18.5 Q 309 19 309 20.5 Q 309 22 311.5 26.5 Q 314 31 314 32.5 Q 314 34 319.5 35 Q 325 36 327.5 38 Q 330 40 331.5 43 Q 333 46 333 47.5 Q 333 49 334 50 Q 335 51 335 52.5 Q 335 54 336.5 56 Q 338 58 338 59.5 Q 338 61 339 62 Q 340 63 340 64.5 Q 340 66 341 67 Q 342 68 344.5 76 Q 347 84 348 85 Q 349 86 351.5 94 Q 354 102 355 103 Q 356 104 357.5 110 Q 359 116 360 117 Q 361 118 366 134 Q 371 150 372.5 152.5 Q 374 155 374.5 160 Q 375 165 374.5 165 Q 374 165 374 166.5 Q 374 168 372 170 Q 370 172 366.5 172.5 Q 363 173 363 172.5 Q 363 172 360.5 172 Q 358 172 358 171.5 Q 358 171 349 170.5 Q 340 170 340 169.5 Q 340 169 321.5 169 Q 303 169 303 169.5 Q 303 170 290 171 Q 277 172 277 172.5 Q 277 173 269.5 174 Q 262 175 260.5 176 Q 259 177 257 177 Q 255 177 255 177.5 Q 255 178 251.5 178.5 Q 248 179 248 179.5 Q 248 180 243.5 181 Q 239 182 238 183 Q 237 184 235.5 184 Q 234 184 231 186 Q 228 188 226.5 188 Q 225 188 220 190.5 Q 215 193 214.5 194 Q 214 195 212 195.5 Q 210 196 206.5 199 Q 203 202 201 203 Q 199 204 197 204 Q 195 204 195 204.5 Q 195 205 190.5 204.5 Q 186 204 182 202 Q 178 200 177.5 199 Q 177 198 169 194 Q 161 190 159.5 190 Q 158 190 156 188.5 Q 154 187 152.5 187 Q 151 187 150 186 Q 149 185 147.5 185 Q 146 185 146 184.5 Q 146 184 144.5 184 Q 143 184 143 183.5 Q 143 183 141.5 183 Q 140 183 137 181.5 Q 134 180 132 180 Q 130 180 128.5 179 Q 127 178 117 176.5 Q 107 175 107 174.5 Q 107 174 99 173.5 Q 91 173 91 172.5 Q 91 172 75.5 172 Q 60 172 60 172.5 Q 60 173 55.5 173 Q 51 173 51 173.5 Q 51 174 42 175 Q 33 176 33 176.5 Q 33 177 31 177 Q 29 177 29 177.5 Q 29 178 27 178 Q 25 178 23 179 Q 21 180 17 179.5 Q 13 179 11.5 177.5 Q 10 176 9.5 175 Q 9 174 9.5 169 Q 10 164 13.5 157 Q 17 150 18 146 Q 19 142 20.5 140 Q 22 138 22 136.5 Q 22 135 23.5 133 Q 25 131 25 129.5 Q 25 128 27 125 Q 29 122 29 120.5 Q 29 119 30.5 117 Q 32 115 32 113.5 Q 32 112 33.5 110 Q 35 108 35 106.5 Q 35 105 42 91 Q 49 77 49 75.5 Q 49 74 52 69 Q 55 64 55 62.5 Q 55 61 57.5 57 Q 60 53 60 51.5 Q 60 50 62.5 46 Q 65 42 65 40.5 Q 65 39 66.5 36 Q 68 33 70.5 31 Q 73 29 75 24.5 Q 77 20 78 20 Q 79 20 81 18 Q 83 16 86 15.5 Q 89 15 90 14 Q 91 13 95 12.5 Q 99 12 99 11.5 Q 99 11 104.5 10.5 Q 110 10 110 9.5 Q 110 9 121.5 9 Q 133 9 133 9.5 Q 133 10 140 11 Q 147 12 148 13 Q 149 14 154 15.5 Q 159 17 159.5 18 Q 160 19 162 19.5 Q 164 20 164.5 21 Q 165 22 169 24 Q 173 26 182.5 35 Q 192 44 196.5 39 Q 201 34 202 34 Q 203 34 204.5 32 Q 206 30 207 30 Q 208 30 208.5 29 Q 209 28 210 28 Q 211 28 212 26.5 Q 213 25 215 24.5 Q 217 24 217.5 23 Q 218 22 220 21.5 Q 222 21 222.5 20 Q 223 19 225.5 18.5 Q 228 18 230 16.5 Q 232 15 233.5 15 Q 235 15 239 13 Q 243 11 250 10 Q 257 9 257 8.5 Q 257 8 261.5 8 Q 266 8 266 7.5 Z\"/>\n    <path id=\"reference-contours\" fill=\"#000000\" fill-rule=\"evenodd\" d=\"M 266 7.5 Q 266 7 277.5 7.5 Q 289 8 289 8.5 Q 289 9 293 9.5 Q 297 10 301 12 Q 305 14 306 16 Q 307 18 308 18.5 Q 309 19 309 20.5 Q 309 22 311.5 26.5 Q 314 31 314 32.5 Q 314 34 319.5 35 Q 325 36 327.5 38 Q 330 40 331.5 43 Q 333 46 333 47.5 Q 333 49 334 50 Q 335 51 335 52.5 Q 335 54 336.5 56 Q 338 58 338 59.5 Q 338 61 339 62 Q 340 63 340 64.5 Q 340 66 341 67 Q 342 68 344.5 76 Q 347 84 348 85 Q 349 86 351.5 94 Q 354 102 355 103 Q 356 104 357.5 110 Q 359 116 360 117 Q 361 118 366 134 Q 371 150 372.5 152.5 Q 374 155 374.5 160 Q 375 165 374.5 165 Q 374 165 374 166.5 Q 374 168 372 170 Q 370 172 366.5 172.5 Q 363 173 363 172.5 Q 363 172 360.5 172 Q 358 172 358 171.5 Q 358 171 349 170.5 Q 340 170 340 169.5 Q 340 169 321.5 169 Q 303 169 303 169.5 Q 303 170 290 171 Q 277 172 277 172.5 Q 277 173 269.5 174 Q 262 175 260.5 176 Q 259 177 257 177 Q 255 177 255 177.5 Q 255 178 251.5 178.5 Q 248 179 248 179.5 Q 248 180 243.5 181 Q 239 182 238 183 Q 237 184 235.5 184 Q 234 184 231 186 Q 228 188 226.5 188 Q 225 188 220 190.5 Q 215 193 214.5 194 Q 214 195 212 195.5 Q 210 196 206.5 199 Q 203 202 201 203 Q 199 204 197 204 Q 195 204 195 204.5 Q 195 205 190.5 204.5 Q 186 204 182 202 Q 178 200 177.5 199 Q 177 198 169 194 Q 161 190 159.5 190 Q 158 190 156 188.5 Q 154 187 152.5 187 Q 151 187 150 186 Q 149 185 147.5 185 Q 146 185 146 184.5 Q 146 184 144.5 184 Q 143 184 143 183.5 Q 143 183 141.5 183 Q 140 183 137 181.5 Q 134 180 132 180 Q 130 180 128.5 179 Q 127 178 117 176.5 Q 107 175 107 174.5 Q 107 174 99 173.5 Q 91 173 91 172.5 Q 91 172 75.5 172 Q 60 172 60 172.5 Q 60 173 55.5 173 Q 51 173 51 173.5 Q 51 174 42 175 Q 33 176 33 176.5 Q 33 177 31 177 Q 29 177 29 177.5 Q 29 178 27 178 Q 25 178 23 179 Q 21 180 17 179.5 Q 13 179 11.5 177.5 Q 10 176 9.5 175 Q 9 174 9.5 169 Q 10 164 13.5 157 Q 17 150 18 146 Q 19 142 20.5 140 Q 22 138 22 136.5 Q 22 135 23.5 133 Q 25 131 25 129.5 Q 25 128 27 125 Q 29 122 29 120.5 Q 29 119 30.5 117 Q 32 115 32 113.5 Q 32 112 33.5 110 Q 35 108 35 106.5 Q 35 105 42 91 Q 49 77 49 75.5 Q 49 74 52 69 Q 55 64 55 62.5 Q 55 61 57.5 57 Q 60 53 60 51.5 Q 60 50 62.5 46 Q 65 42 65 40.5 Q 65 39 66.5 36 Q 68 33 70.5 31 Q 73 29 75 24.5 Q 77 20 78 20 Q 79 20 81 18 Q 83 16 86 15.5 Q 89 15 90 14 Q 91 13 95 12.5 Q 99 12 99 11.5 Q 99 11 104.5 10.5 Q 110 10 110 9.5 Q 110 9 121.5 9 Q 133 9 133 9.5 Q 133 10 140 11 Q 147 12 148 13 Q 149 14 154 15.5 Q 159 17 159.5 18 Q 160 19 162 19.5 Q 164 20 164.5 21 Q 165 22 169 24 Q 173 26 182.5 35 Q 192 44 196.5 39 Q 201 34 202 34 Q 203 34 204.5 32 Q 206 30 207 30 Q 208 30 208.5 29 Q 209 28 210 28 Q 211 28 212 26.5 Q 213 25 215 24.5 Q 217 24 217.5 23 Q 218 22 220 21.5 Q 222 21 222.5 20 Q 223 19 225.5 18.5 Q 228 18 230 16.5 Q 232 15 233.5 15 Q 235 15 239 13 Q 243 11 250 10 Q 257 9 257 8.5 Q 257 8 261.5 8 Q 266 8 266 7.5 Z M 277.5 15.5 Q 268 15 260 16 Q 252 17 250.5 18 Q 249 19 242.5 20.5 Q 236 22 229 25.5 Q 222 29 218.5 32 Q 215 35 214 35 Q 213 35 212 36.5 Q 211 38 210 38 Q 209 38 207 40.5 Q 205 43 204 43 Q 203 43 199 47 Q 195 51 195 71.5 Q 195 92 194.5 92 Q 194 92 193.5 94.5 Q 193 97 191 97 Q 189 97 187.5 95.5 Q 186 94 186.5 73 Q 187 52 177 42 Q 167 32 166 32 Q 165 32 164.5 31 Q 164 30 163 30 Q 162 30 161.5 29 Q 161 28 159 27.5 Q 157 27 156.5 26 Q 156 25 154 24 Q 152 23 150.5 23 Q 149 23 145 21 Q 141 19 135.5 18.5 Q 130 18 130 17.5 Q 130 17 120 17 Q 110 17 110 17.5 Q 110 18 106.5 18 Q 103 18 103 18.5 Q 103 19 100.5 19 Q 98 19 98 19.5 Q 98 20 93 21 Q 88 22 85 24 Q 82 26 74.5 41 Q 67 56 67 57.5 Q 67 59 65 62 Q 63 65 63 66.5 Q 63 68 61.5 70 Q 60 72 60 73.5 Q 60 75 57 81 Q 54 87 54 88.5 Q 54 90 53.5 90 Q 53 90 53 91.5 Q 53 93 52.5 93 Q 52 93 52 94.5 Q 52 96 50.5 99 Q 49 102 48.5 106.5 Q 48 111 62 104 Q 76 97 77.5 97 Q 79 97 79 96.5 Q 79 96 80.5 96 Q 82 96 85 94.5 Q 88 93 92 92.5 Q 96 92 96 91.5 Q 96 91 101.5 90.5 Q 107 90 107 89.5 Q 107 89 119.5 89 Q 132 89 132 89.5 Q 132 90 140.5 91.5 Q 149 93 149 93.5 Q 149 94 153 95 Q 157 96 164 99.5 Q 171 103 171.5 104 Q 172 105 173 105 Q 174 105 174.5 106 Q 175 107 179 109 Q 183 111 185.5 113.5 Q 188 116 191.5 116 Q 195 116 195.5 115 Q 196 114 197 114 Q 198 114 198.5 113 Q 199 112 200 112 Q 201 112 204.5 109 Q 208 106 210 105.5 Q 212 105 212.5 104 Q 213 103 218 100.5 Q 223 98 226 97.5 Q 229 97 230 96 Q 231 95 232.5 95 Q 234 95 237 93.5 Q 240 92 246.5 91 Q 253 90 253 89.5 Q 253 89 256.5 89 Q 260 89 260 88.5 Q 260 88 270.5 88 Q 281 88 281 88.5 Q 281 89 288 89.5 Q 295 90 295 90.5 Q 295 91 301 92 Q 307 93 307 93.5 Q 307 94 313 95.5 Q 319 97 320 98 Q 321 99 324 99.5 Q 327 100 326.5 97 Q 326 94 325.5 94 Q 325 94 325 92.5 Q 325 91 323.5 88 Q 322 85 322 83 Q 322 81 321.5 81 Q 321 81 321 79.5 Q 321 78 320.5 78 Q 320 78 320 76.5 Q 320 75 318.5 72 Q 317 69 317 67 Q 317 65 316.5 65 Q 316 65 314 57.5 Q 312 50 311 49 Q 310 48 309 43.5 Q 308 39 307 38 Q 306 37 306 35.5 Q 306 34 305 33 Q 304 32 302.5 27 Q 301 22 298 20 Q 295 18 293 18 Q 291 18 289 17 Q 287 16 277.5 15.5 Z M 320 43 Q 319 43 318.5 43 Q 318 43 318 44.5 Q 318 46 319 47 Q 320 48 320 49.5 Q 320 51 320.5 51 Q 321 51 321 52.5 Q 321 54 321.5 54 Q 322 54 322 55.5 Q 322 57 322.5 57 Q 323 57 323 58.5 Q 323 60 323.5 60 Q 324 60 324 61.5 Q 324 63 324.5 63 Q 325 63 325 64.5 Q 325 66 325.5 66 Q 326 66 326 67.5 Q 326 69 327.5 72 Q 329 75 329 77 Q 329 79 329.5 79 Q 330 79 330 80.5 Q 330 82 331.5 85 Q 333 88 333 90 Q 333 92 334.5 95 Q 336 98 336 100 Q 336 102 336.5 102 Q 337 102 337 104.5 Q 337 107 335.5 109 Q 334 111 331.5 111 Q 329 111 323 108 Q 317 105 310.5 103.5 Q 304 102 302.5 101 Q 301 100 299 100 Q 297 100 297 99.5 Q 297 99 291.5 98.5 Q 286 98 286 97.5 Q 286 97 281 97 Q 276 97 276 96.5 Q 276 96 271 96 Q 266 96 266 96.5 Q 266 97 260.5 97 Q 255 97 255 97.5 Q 255 98 246.5 99.5 Q 238 101 226 107 Q 214 113 219.5 112.5 Q 225 112 225 111.5 Q 225 111 242 111 Q 259 111 259 111.5 Q 259 112 263 112 Q 267 112 267 112.5 Q 267 113 275.5 114 Q 284 115 284 115.5 Q 284 116 290.5 117 Q 297 118 297 118.5 Q 297 119 299 119 Q 301 119 301 119.5 Q 301 120 303 120 Q 305 120 305 120.5 Q 305 121 307 121 Q 309 121 310.5 122 Q 312 123 316.5 123.5 Q 321 124 323 125 Q 325 126 327.5 126 Q 330 126 330 126.5 Q 330 127 330.5 126 Q 331 125 330 124 Q 329 123 329 120.5 Q 329 118 332 117.5 Q 335 117 338 121.5 Q 341 126 341 129.5 Q 341 133 340 134 Q 339 135 318 134.5 Q 297 134 297 134.5 Q 297 135 289 135.5 Q 281 136 281 136.5 Q 281 137 272.5 138.5 Q 264 140 264 140.5 Q 264 141 255 143.5 Q 246 146 244 147.5 Q 242 149 240.5 149 Q 239 149 229 154 Q 219 159 218.5 160 Q 218 161 216 161.5 Q 214 162 213.5 163 Q 213 164 209.5 165.5 Q 206 167 205.5 168 Q 205 169 204 169 Q 203 169 202.5 170 Q 202 171 201 171 Q 200 171 199.5 172 Q 199 173 197 174 Q 195 175 191.5 175 Q 188 175 184 173 Q 180 171 179.5 170 Q 179 169 174 167 Q 169 165 168.5 164 Q 168 163 164 161 Q 160 159 158.5 159 Q 157 159 154 157 Q 151 155 149.5 155 Q 148 155 148 154.5 Q 148 154 146.5 154 Q 145 154 145 153.5 Q 145 153 143.5 153 Q 142 153 142 152.5 Q 142 152 140.5 152 Q 139 152 136 150.5 Q 133 149 127 148 Q 121 147 121 146.5 Q 121 146 114 145.5 Q 107 145 107 144.5 Q 107 144 100.5 144 Q 94 144 94 143.5 Q 94 143 87.5 143 Q 81 143 81 143.5 Q 81 144 74 144 Q 67 144 67 144.5 Q 67 145 60 145.5 Q 53 146 53 146.5 Q 53 147 48.5 147.5 Q 44 148 44 148.5 Q 44 149 41 148.5 Q 38 148 37 146.5 Q 36 145 36 143 Q 36 141 36.5 141 Q 37 141 37 139.5 Q 37 138 39 134 Q 41 130 43 128.5 Q 45 127 47 128 Q 49 129 49 131 Q 49 133 47.5 135 Q 46 137 46 138 Q 46 139 47.5 139 Q 49 139 55 136 Q 61 133 62.5 133 Q 64 133 68 130.5 Q 72 128 76 127 Q 80 126 82 124.5 Q 84 123 85.5 123 Q 87 123 88 122 Q 89 121 90.5 121 Q 92 121 92 120.5 Q 92 120 93.5 120 Q 95 120 95 119.5 Q 95 119 96.5 119 Q 98 119 99 118 Q 100 117 103.5 116.5 Q 107 116 108.5 115 Q 110 114 118.5 112.5 Q 127 111 127 110.5 Q 127 110 130.5 110 Q 134 110 134 109.5 Q 134 109 149 109.5 Q 164 110 159 107 Q 154 104 152.5 104 Q 151 104 150 103 Q 149 102 144 101 Q 139 100 139 99.5 Q 139 99 133.5 98.5 Q 128 98 128 97.5 Q 128 97 119 97 Q 110 97 110 97.5 Q 110 98 103.5 98.5 Q 97 99 97 99.5 Q 97 100 93.5 100.5 Q 90 101 90 101.5 Q 90 102 85.5 103 Q 81 104 80 105 Q 79 106 77.5 106 Q 76 106 72 108.5 Q 68 111 66.5 111 Q 65 111 64.5 112 Q 64 113 61 114 Q 58 115 57.5 116 Q 57 117 55 117.5 Q 53 118 52.5 119 Q 52 120 50 121 Q 48 122 45.5 122 Q 43 122 42 120 Q 41 118 40 118 Q 39 118 39 119.5 Q 39 121 37.5 123 Q 36 125 36 126.5 Q 36 128 34.5 130 Q 33 132 33 133.5 Q 33 135 31.5 137 Q 30 139 30 140.5 Q 30 142 28.5 144 Q 27 146 27 147.5 Q 27 149 25.5 151 Q 24 153 24 154.5 Q 24 156 23 157 Q 22 158 22 159.5 Q 22 161 20 165 Q 18 169 21 169.5 Q 24 170 24 169.5 Q 24 169 32.5 167.5 Q 41 166 41 165.5 Q 41 165 47.5 164.5 Q 54 164 54 163.5 Q 54 163 59.5 163 Q 65 163 65 162.5 Q 65 162 77.5 162 Q 90 162 90 162.5 Q 90 163 99 163.5 Q 108 164 108 164.5 Q 108 165 111 165 Q 114 165 114 165.5 Q 114 166 125 168 Q 136 170 136 170.5 Q 136 171 143.5 173 Q 151 175 152 176 Q 153 177 157 178 Q 161 179 170 183.5 Q 179 188 179.5 189 Q 180 190 181 190 Q 182 190 182.5 191 Q 183 192 186 193.5 Q 189 195 192.5 195 Q 196 195 199 192.5 Q 202 190 203 190 Q 204 190 204.5 189 Q 205 188 206 188 Q 207 188 207.5 187 Q 208 186 219 180.5 Q 230 175 231.5 175 Q 233 175 234 174 Q 235 173 238 172.5 Q 241 172 243.5 170.5 Q 246 169 248 169 Q 250 169 250 168.5 Q 250 168 257.5 166.5 Q 265 165 265 164.5 Q 265 164 270 163.5 Q 275 163 275 162.5 Q 275 162 286 161 Q 297 160 297 159.5 Q 297 159 318.5 159 Q 340 159 340 159.5 Q 340 160 344.5 160 Q 349 160 349 160.5 Q 349 161 357 162 Q 365 163 365 161 Q 365 159 363 155 Q 361 151 360 146 Q 359 141 358 140 Q 357 139 355 131.5 Q 353 124 352 123 Q 351 122 351 120.5 Q 351 119 350.5 119 Q 350 119 349 114.5 Q 348 110 347 109 Q 346 108 345 103.5 Q 344 99 343 98 Q 342 97 341.5 94 Q 341 91 340 90 Q 339 89 338 84.5 Q 337 80 334 74 Q 331 68 331 66.5 Q 331 65 328.5 60 Q 326 55 326 53.5 Q 326 52 325 51 Q 324 50 324 48.5 Q 324 47 322.5 45 Q 321 43 320 43 Z\"/>\n    <g id=\"eye-1\" data-peek-eye=\"\">\n      <ellipse data-peek-white=\"\" cx=\"172\" cy=\"140\" rx=\"15\" ry=\"15\" fill=\"#FFFFFF\"/>\n      <ellipse data-peek-pupil=\"\" cx=\"172\" cy=\"140\" rx=\"6.750\" ry=\"6.750\" fill=\"#000000\"/>\n    </g>\n    <g id=\"eye-2\" data-peek-eye=\"\">\n      <ellipse data-peek-white=\"\" cx=\"206.5\" cy=\"140\" rx=\"14.5\" ry=\"15\" fill=\"#FFFFFF\"/>\n      <ellipse data-peek-pupil=\"\" cx=\"206.5\" cy=\"140\" rx=\"6.525\" ry=\"6.750\" fill=\"#000000\"/>\n    </g>\n  </g>\n</svg>\n";
+  const defaultLabel = "藏在书本里的眼睛";
+  if (customElements.get(tagName)) return;
+
+  class PeekingDoodle extends HTMLElement {
+    static get observedAttributes() { return ['label', 'tracking', 'blink', 'idle-ms']; }
+
+    constructor() {
+      super();
+      const shadow = this.attachShadow({ mode: 'open' });
+      shadow.innerHTML = `<style>
+        :host { display:inline-block; width:var(--peeking-size,240px); max-width:100%; vertical-align:middle; line-height:0; }
+        svg { display:block; width:100%; height:auto; overflow:visible; pointer-events:none; }
+      </style>${artwork}`;
+      this._svg = shadow.querySelector('svg');
+      this._svg.setAttribute('aria-hidden', 'true');
+      this._eyes = [...shadow.querySelectorAll('[data-peek-eye]')].map(group => {
+        const white = group.querySelector('[data-peek-white]');
+        const pupil = group.querySelector('[data-peek-pupil]');
+        const number = (el, attr) => Number(el.getAttribute(attr));
+        const cx = number(white, 'cx'), cy = number(white, 'cy');
+        const rx = number(white, 'rx'), ry = number(white, 'ry');
+        const ratio = Math.max(number(pupil, 'rx') / rx, number(pupil, 'ry') / ry);
+        // Conservative inner ellipse: pupil + offset remains inside the eye.
+        const factor = Math.max(0, 1 - ratio - 0.08);
+        const lid = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+        lid.setAttribute('data-peek-lid', '');
+        while (group.firstChild) lid.append(group.firstChild);
+        group.append(lid);
+        pupil.setAttribute('cx', cx);
+        pupil.setAttribute('cy', cy);
+        return { group, pupil, lid, cx, cy, a: rx * factor, b: ry * factor, x: 0, y: 0 };
+      });
+      this._raf = 0;
+      this._blinkTimer = this._openTimer = this._idleTimer = null;
+      this._pointer = null;
+      this._sleeping = false;
+      this._inView = true;
+    }
+
+    connectedCallback() {
+      this._abort?.abort();
+      this._abort = new AbortController();
+      const options = { passive: true, signal: this._abort.signal };
+      this._motion = matchMedia('(prefers-reduced-motion: reduce)');
+      this._inView = true;
+      this._lastTime = 0;
+      this._applyLabel();
+      const move = event => {
+        if (this.getAttribute('tracking') === 'off') return;
+        this._pointer = { x: event.clientX, y: event.clientY };
+        this._wake();
+        this._requestFrame();
+      };
+      window.addEventListener('pointermove', move, options);
+      window.addEventListener('pointerdown', move, options);
+      window.addEventListener('pointerout', event => { if (!event.relatedTarget) this._reset(); }, options);
+      window.addEventListener('blur', () => this._reset(), options);
+      window.addEventListener('scroll', () => this._requestFrame(), { ...options, capture: true });
+      window.addEventListener('resize', () => this._requestFrame(), options);
+      document.addEventListener('visibilitychange', () => this._refreshActivity(), options);
+      this._motion.addEventListener('change', () => this._refreshActivity(), options);
+      this._resize = new ResizeObserver(() => this._requestFrame());
+      this._resize.observe(this);
+      this._intersection = new IntersectionObserver(entries => {
+        this._inView = entries[0].isIntersecting;
+        this._refreshActivity();
+      });
+      this._intersection.observe(this);
+      this._refreshActivity();
+    }
+
+    disconnectedCallback() {
+      this._abort?.abort();
+      this._resize?.disconnect();
+      this._intersection?.disconnect();
+      this._stop();
+      this._pointer = null;
+      this._sleeping = false;
+      this._setLid(1);
+      this._eyes.forEach(eye => {
+        eye.x = eye.y = 0;
+        eye.pupil.setAttribute('cx', eye.cx);
+        eye.pupil.setAttribute('cy', eye.cy);
+      });
+    }
+
+    attributeChangedCallback(name) {
+      if (!this.isConnected) return;
+      if (name === 'label') this._applyLabel();
+      else {
+        if (name === 'tracking') this._reset();
+        this._refreshActivity();
+      }
+    }
+
+    _applyLabel() {
+      this.setAttribute('role', 'img');
+      this.setAttribute('aria-label', this.getAttribute('label') || defaultLabel);
+    }
+    _active() { return this.isConnected && this._inView && !document.hidden; }
+    _setLid(scale) {
+      this._eyes.forEach(eye => eye.lid.setAttribute('transform',
+        `translate(${eye.cx} ${eye.cy}) scale(1 ${scale}) translate(${-eye.cx} ${-eye.cy})`));
+    }
+    _stop() {
+      cancelAnimationFrame(this._raf);
+      this._raf = 0;
+      for (const key of ['_blinkTimer', '_openTimer', '_idleTimer']) {
+        clearTimeout(this[key]);
+        this[key] = null;
+      }
+    }
+    _refreshActivity() {
+      this._stop();
+      this._sleeping = false;
+      this._setLid(1);
+      if (!this._active()) return;
+      this._wake();
+      this._requestFrame();
+    }
+    _wake() {
+      clearTimeout(this._idleTimer);
+      this._idleTimer = null;
+      if (this._sleeping) { this._sleeping = false; this._setLid(1); }
+      const idle = Number(this.getAttribute('idle-ms'));
+      if (this._active() && !this._motion.matches && Number.isFinite(idle) && idle > 0) {
+        this._idleTimer = setTimeout(() => {
+          this._idleTimer = null;
+          this._sleeping = true;
+          clearTimeout(this._openTimer);
+          this._openTimer = null;
+          this._setLid(0.04);
+        }, idle);
+      }
+      this._scheduleBlink();
+    }
+    _scheduleBlink() {
+      if (this._blinkTimer !== null || !this._active() || this._motion.matches || this.getAttribute('blink') === 'off') return;
+      this._blinkTimer = setTimeout(() => {
+        this._blinkTimer = null;
+        if (!this._sleeping) {
+          this._setLid(0.04);
+          this._openTimer = setTimeout(() => {
+            this._openTimer = null;
+            if (!this._sleeping) this._setLid(1);
+          }, 130);
+        }
+        this._scheduleBlink();
+      }, 2400 + Math.random() * 4000);
+    }
+    _reset() {
+      this._pointer = null;
+      this._wake();
+      this._requestFrame();
+    }
+    _requestFrame() {
+      if (!this._raf && this._active()) this._raf = requestAnimationFrame(time => this._tick(time));
+    }
+    _tick(time) {
+      this._raf = 0;
+      if (!this._active()) return;
+      const matrices = this._eyes.map(eye => eye.group.getScreenCTM());
+      if (matrices.some(matrix => !matrix || Math.abs(matrix.a * matrix.d - matrix.b * matrix.c) < 1e-10)) return;
+      const centers = this._eyes.map((eye, index) => new DOMPoint(eye.cx, eye.cy).matrixTransform(matrices[index]));
+      const center = centers.reduce((sum, point) => ({ x: sum.x + point.x / centers.length, y: sum.y + point.y / centers.length }), { x: 0, y: 0 });
+      const pointer = this.getAttribute('tracking') === 'off' ? null : this._pointer;
+      const dx = pointer ? pointer.x - center.x : 0;
+      const dy = pointer ? pointer.y - center.y : 0;
+      const strength = Math.min(1, Math.hypot(dx, dy) / 140);
+      const dt = this._lastTime ? Math.min(64, time - this._lastTime) : 16;
+      this._lastTime = time;
+      const ease = this._motion.matches ? 1 : 1 - Math.exp(-dt / 55);
+      let unsettled = false;
+      this._eyes.forEach((eye, index) => {
+        const inverse = matrices[index].inverse();
+        const vectorX = inverse.a * dx + inverse.c * dy;
+        const vectorY = inverse.b * dx + inverse.d * dy;
+        const length = eye.a && eye.b ? Math.hypot(vectorX / eye.a, vectorY / eye.b) : 0;
+        const tx = length ? vectorX / length * strength : 0;
+        const ty = length ? vectorY / length * strength : 0;
+        eye.x += (tx - eye.x) * ease;
+        eye.y += (ty - eye.y) * ease;
+        if (Math.hypot(tx - eye.x, ty - eye.y) > 0.01) unsettled = true;
+        else { eye.x = tx; eye.y = ty; }
+        eye.pupil.setAttribute('cx', (eye.cx + eye.x).toFixed(4));
+        eye.pupil.setAttribute('cy', (eye.cy + eye.y).toFixed(4));
+      });
+      if (unsettled) this._requestFrame();
+      else this._lastTime = 0;
+    }
+  }
+  customElements.define(tagName, PeekingDoodle);
+})();

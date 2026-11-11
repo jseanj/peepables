@@ -1,0 +1,197 @@
+/* Self-contained Peeking Eyes Doodle widget; generated from editable SVG. */
+(() => {
+  const tagName = "peek-hanging-lamp";
+  const artwork = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1024\" height=\"1024\" viewBox=\"0 0 1024 1024\">\n  <title>Peepables \u2014 hanging lamp</title>\n  <desc>Native vector contours matched to the supplied reference, with independently editable tracking eyes.</desc>\n  <g transform=\"translate(233.9952 116.0261) scale(1.828979)\" stroke=\"none\">\n    <path id=\"white-silhouette\" fill=\"#FFFFFF\" d=\"M 155 8 Q 157 6 159.5 6.5 Q 162 7 163 9 Q 164 11 164 72.5 Q 164 134 168.5 134.5 Q 173 135 173 135.5 Q 173 136 174.5 136 Q 176 136 180 138 Q 184 140 189 145.5 Q 194 151 195.5 156 Q 197 161 197.5 161 Q 198 161 198 163 Q 198 165 198.5 165 Q 199 165 199 177 Q 199 189 203 191 Q 207 193 208.5 193 Q 210 193 211 194 Q 212 195 213.5 195 Q 215 195 218 196.5 Q 221 198 221.5 199 Q 222 200 225 201 Q 228 202 230 204 Q 232 206 233 206 Q 234 206 237.5 209.5 Q 241 213 242 213 Q 243 213 245 215.5 Q 247 218 248 218 Q 249 218 252.5 221.5 Q 256 225 256 226 Q 256 227 259.5 230 Q 263 233 264.5 236 Q 266 239 267.5 240 Q 269 241 269 242 Q 269 243 270 243.5 Q 271 244 271 245 Q 271 246 274 249.5 Q 277 253 278 256 Q 279 259 280 259.5 Q 281 260 283.5 265 Q 286 270 286 271.5 Q 286 273 287 274 Q 288 275 288 276.5 Q 288 278 289 279 Q 290 280 290 281.5 Q 290 283 291 284 Q 292 285 292 286.5 Q 292 288 293.5 291 Q 295 294 295 296 Q 295 298 295.5 298 Q 296 298 297 304 Q 298 310 298.5 310 Q 299 310 299 313 Q 299 316 299.5 316 Q 300 316 299.5 324.5 Q 299 333 298 335 Q 297 337 296 337.5 Q 295 338 295 339 Q 295 340 293 341 Q 291 342 289.5 344 Q 288 346 286 346.5 Q 284 347 283.5 348 Q 283 349 280 350.5 Q 277 352 270.5 354 Q 264 356 264 356.5 Q 264 357 262 357 Q 260 357 258.5 358 Q 257 359 255 359 Q 253 359 253 359.5 Q 253 360 251 360 Q 249 360 249 360.5 Q 249 361 247 361 Q 245 361 243 362 Q 241 363 236 363.5 Q 231 364 231 364.5 Q 231 365 217 366.5 Q 203 368 203 368.5 Q 203 369 192.5 369.5 Q 182 370 182 370.5 Q 182 371 159 371.5 Q 136 372 136 371.5 Q 136 371 116.5 370.5 Q 97 370 97 369.5 Q 97 369 91.5 369 Q 86 369 86 368.5 Q 86 368 71.5 366.5 Q 57 365 57 364.5 Q 57 364 52 363.5 Q 47 363 47 362.5 Q 47 362 45 362 Q 43 362 43 361.5 Q 43 361 41 361 Q 39 361 39 360.5 Q 39 360 32.5 358.5 Q 26 357 21 354.5 Q 16 352 15 350.5 Q 14 349 13 349 Q 12 349 9.5 346 Q 7 343 6 341 Q 5 339 5 337 Q 5 335 4.5 335 Q 4 335 4 327.5 Q 4 320 4.5 320 Q 5 320 6.5 311.5 Q 8 303 10 299 Q 12 295 12 293.5 Q 12 292 13 291 Q 14 290 14 288.5 Q 14 287 18.5 278 Q 23 269 24 268.5 Q 25 268 25.5 266 Q 26 264 27 263.5 Q 28 263 28 262 Q 28 261 29 260.5 Q 30 260 32 256 Q 34 252 37.5 248.5 Q 41 245 41 244 Q 41 243 53 231 Q 65 219 66 219 Q 67 219 70.5 215.5 Q 74 212 75 212 Q 76 212 79.5 209 Q 83 206 85 205.5 Q 87 205 87.5 204 Q 88 203 91 202 Q 94 201 94.5 200 Q 95 199 98.5 198 Q 102 197 104 195.5 Q 106 194 107.5 194 Q 109 194 110 193 Q 111 192 115 191 Q 119 190 119 179 Q 119 168 119.5 168 Q 120 168 120.5 164 Q 121 160 123 156 Q 125 152 129.5 147 Q 134 142 135 142 Q 136 142 138 140 Q 140 138 146.5 136 Q 153 134 153 72 Q 153 10 155 8 Z M 81 392 Q 87 386 89 386.5 Q 91 387 91.5 388 Q 92 389 91.5 391 Q 91 393 85 399 Q 79 405 79 406 Q 79 407 75 410.5 Q 71 414 70.5 415.5 Q 70 417 67.5 417 Q 65 417 64.5 414 Q 64 411 66.5 409 Q 69 407 69 406 Q 69 405 72 402.5 Q 75 400 75 399 Q 75 398 81 392 Z M 217 387 Q 218 386 220.5 386.5 Q 223 387 223 388 Q 223 389 225.5 391 Q 228 393 228 394 Q 228 395 230.5 397 Q 233 399 233 400 Q 233 401 237.5 405.5 Q 242 410 242.5 412.5 Q 243 415 242 416 Q 241 417 239 417 Q 237 417 235.5 415.5 Q 234 414 234 413 Q 234 412 231.5 410 Q 229 408 229 407 Q 229 406 226.5 404 Q 224 402 224 401 Q 224 400 221.5 398 Q 219 396 219 395 Q 219 394 217.5 393 Q 216 392 216 390 Q 216 388 217 387 Z M 152 391 Q 153 390 154.5 390 Q 156 390 157 391 Q 158 392 158 408 Q 158 424 157 425.5 Q 156 427 154 427 Q 152 427 151 425.5 Q 150 424 150.5 408 Q 151 392 152 391 Z\"/>\n    <path id=\"reference-contours\" fill=\"#000000\" fill-rule=\"evenodd\" d=\"M 155 8 Q 157 6 159.5 6.5 Q 162 7 163 9 Q 164 11 164 72.5 Q 164 134 168.5 134.5 Q 173 135 173 135.5 Q 173 136 174.5 136 Q 176 136 180 138 Q 184 140 189 145.5 Q 194 151 195.5 156 Q 197 161 197.5 161 Q 198 161 198 163 Q 198 165 198.5 165 Q 199 165 199 177 Q 199 189 203 191 Q 207 193 208.5 193 Q 210 193 211 194 Q 212 195 213.5 195 Q 215 195 218 196.5 Q 221 198 221.5 199 Q 222 200 225 201 Q 228 202 230 204 Q 232 206 233 206 Q 234 206 237.5 209.5 Q 241 213 242 213 Q 243 213 245 215.5 Q 247 218 248 218 Q 249 218 252.5 221.5 Q 256 225 256 226 Q 256 227 259.5 230 Q 263 233 264.5 236 Q 266 239 267.5 240 Q 269 241 269 242 Q 269 243 270 243.5 Q 271 244 271 245 Q 271 246 274 249.5 Q 277 253 278 256 Q 279 259 280 259.5 Q 281 260 283.5 265 Q 286 270 286 271.5 Q 286 273 287 274 Q 288 275 288 276.5 Q 288 278 289 279 Q 290 280 290 281.5 Q 290 283 291 284 Q 292 285 292 286.5 Q 292 288 293.5 291 Q 295 294 295 296 Q 295 298 295.5 298 Q 296 298 297 304 Q 298 310 298.5 310 Q 299 310 299 313 Q 299 316 299.5 316 Q 300 316 299.5 324.5 Q 299 333 298 335 Q 297 337 296 337.5 Q 295 338 295 339 Q 295 340 293 341 Q 291 342 289.5 344 Q 288 346 286 346.5 Q 284 347 283.5 348 Q 283 349 280 350.5 Q 277 352 270.5 354 Q 264 356 264 356.5 Q 264 357 262 357 Q 260 357 258.5 358 Q 257 359 255 359 Q 253 359 253 359.5 Q 253 360 251 360 Q 249 360 249 360.5 Q 249 361 247 361 Q 245 361 243 362 Q 241 363 236 363.5 Q 231 364 231 364.5 Q 231 365 217 366.5 Q 203 368 203 368.5 Q 203 369 192.5 369.5 Q 182 370 182 370.5 Q 182 371 159 371.5 Q 136 372 136 371.5 Q 136 371 116.5 370.5 Q 97 370 97 369.5 Q 97 369 91.5 369 Q 86 369 86 368.5 Q 86 368 71.5 366.5 Q 57 365 57 364.5 Q 57 364 52 363.5 Q 47 363 47 362.5 Q 47 362 45 362 Q 43 362 43 361.5 Q 43 361 41 361 Q 39 361 39 360.5 Q 39 360 32.5 358.5 Q 26 357 21 354.5 Q 16 352 15 350.5 Q 14 349 13 349 Q 12 349 9.5 346 Q 7 343 6 341 Q 5 339 5 337 Q 5 335 4.5 335 Q 4 335 4 327.5 Q 4 320 4.5 320 Q 5 320 6.5 311.5 Q 8 303 10 299 Q 12 295 12 293.5 Q 12 292 13 291 Q 14 290 14 288.5 Q 14 287 18.5 278 Q 23 269 24 268.5 Q 25 268 25.5 266 Q 26 264 27 263.5 Q 28 263 28 262 Q 28 261 29 260.5 Q 30 260 32 256 Q 34 252 37.5 248.5 Q 41 245 41 244 Q 41 243 53 231 Q 65 219 66 219 Q 67 219 70.5 215.5 Q 74 212 75 212 Q 76 212 79.5 209 Q 83 206 85 205.5 Q 87 205 87.5 204 Q 88 203 91 202 Q 94 201 94.5 200 Q 95 199 98.5 198 Q 102 197 104 195.5 Q 106 194 107.5 194 Q 109 194 110 193 Q 111 192 115 191 Q 119 190 119 179 Q 119 168 119.5 168 Q 120 168 120.5 164 Q 121 160 123 156 Q 125 152 129.5 147 Q 134 142 135 142 Q 136 142 138 140 Q 140 138 146.5 136 Q 153 134 153 72 Q 153 10 155 8 Z M 160.5 143 Q 153 143 148.5 144.5 Q 144 146 141.5 148.5 Q 139 151 138 151 Q 137 151 136.5 152.5 Q 136 154 134.5 155 Q 133 156 131.5 159 Q 130 162 130 163.5 Q 130 165 129.5 165 Q 129 165 129 167.5 Q 129 170 128.5 170 Q 128 170 128 178.5 Q 128 187 137.5 186 Q 147 185 147 184.5 Q 147 184 159 184 Q 171 184 171 184.5 Q 171 185 176 185 Q 181 185 181 185.5 Q 181 186 185.5 186.5 Q 190 187 190 177.5 Q 190 168 189.5 168 Q 189 168 188.5 164 Q 188 160 187 158 Q 186 156 185 155.5 Q 184 155 184 154 Q 184 153 180 149.5 Q 176 146 172 145 Q 168 144 168 143.5 Q 168 143 160.5 143 Z M 167.5 192.5 Q 158 192 157.5 192.5 Q 157 193 146.5 193.5 Q 136 194 136 194.5 Q 136 195 133.5 195 Q 131 195 131 195.5 Q 131 196 129 196 Q 127 196 127 196.5 Q 127 197 125 197 Q 123 197 123 197.5 Q 123 198 117 199.5 Q 111 201 109 202.5 Q 107 204 105.5 204 Q 104 204 100 206 Q 96 208 93 210.5 Q 90 213 88 213.5 Q 86 214 83.5 216.5 Q 81 219 80 219 Q 79 219 78 220.5 Q 77 222 76 222 Q 75 222 73 224.5 Q 71 227 70 227 Q 69 227 59.5 236.5 Q 50 246 50 247 Q 50 248 47.5 250 Q 45 252 45 253 Q 45 254 43.5 255 Q 42 256 42 257 Q 42 258 41 258.5 Q 40 259 40 260 Q 40 261 39 261.5 Q 38 262 38 263 Q 38 264 35 267.5 Q 32 271 27 281 Q 22 291 21.5 294 Q 21 297 20 298 Q 19 299 19 300.5 Q 19 302 17.5 305 Q 16 308 15 315.5 Q 14 323 13.5 323 Q 13 323 13 327.5 Q 13 332 15 330 Q 17 328 18 328 Q 19 328 20 326.5 Q 21 325 22 325 Q 23 325 23.5 324 Q 24 323 27 322 Q 30 321 30.5 320 Q 31 319 33.5 318.5 Q 36 318 45 313.5 Q 54 309 61.5 307 Q 69 305 69 304.5 Q 69 304 71 304 Q 73 304 73 303.5 Q 73 303 82 301 Q 91 299 91 298.5 Q 91 298 104.5 296 Q 118 294 118 293.5 Q 118 293 126.5 292.5 Q 135 292 135 291.5 Q 135 291 145 291 Q 155 291 155 290.5 Q 155 290 172.5 291 Q 190 292 190 292.5 Q 190 293 194 293 Q 198 293 198 293.5 Q 198 294 209 295.5 Q 220 297 220 297.5 Q 220 298 226 299 Q 232 300 233.5 301 Q 235 302 240.5 303 Q 246 304 246 304.5 Q 246 305 252 306.5 Q 258 308 259 309 Q 260 310 263 310.5 Q 266 311 278.5 317.5 Q 291 324 290.5 318 Q 290 312 289 310 Q 288 308 287.5 303.5 Q 287 299 286.5 299 Q 286 299 284.5 293 Q 283 287 282 286 Q 281 285 280.5 282 Q 280 279 275 269 Q 270 259 269 258.5 Q 268 258 267.5 256 Q 267 254 266 253.5 Q 265 253 263 249 Q 261 245 257.5 241.5 Q 254 238 254 237 Q 254 236 246 228 Q 238 220 237 220 Q 236 220 234.5 218 Q 233 216 232 216 Q 231 216 230 214.5 Q 229 213 225.5 211.5 Q 222 210 221.5 209 Q 221 208 214 204.5 Q 207 201 205.5 201 Q 204 201 203 200 Q 202 199 195 197.5 Q 188 196 188 195.5 Q 188 195 182.5 194.5 Q 177 194 177 193.5 Q 177 193 167.5 192.5 Z M 81 392 Q 87 386 89 386.5 Q 91 387 91.5 388 Q 92 389 91.5 391 Q 91 393 85 399 Q 79 405 79 406 Q 79 407 75 410.5 Q 71 414 70.5 415.5 Q 70 417 67.5 417 Q 65 417 64.5 414 Q 64 411 66.5 409 Q 69 407 69 406 Q 69 405 72 402.5 Q 75 400 75 399 Q 75 398 81 392 Z M 217 387 Q 218 386 220.5 386.5 Q 223 387 223 388 Q 223 389 225.5 391 Q 228 393 228 394 Q 228 395 230.5 397 Q 233 399 233 400 Q 233 401 237.5 405.5 Q 242 410 242.5 412.5 Q 243 415 242 416 Q 241 417 239 417 Q 237 417 235.5 415.5 Q 234 414 234 413 Q 234 412 231.5 410 Q 229 408 229 407 Q 229 406 226.5 404 Q 224 402 224 401 Q 224 400 221.5 398 Q 219 396 219 395 Q 219 394 217.5 393 Q 216 392 216 390 Q 216 388 217 387 Z M 152 391 Q 153 390 154.5 390 Q 156 390 157 391 Q 158 392 158 408 Q 158 424 157 425.5 Q 156 427 154 427 Q 152 427 151 425.5 Q 150 424 150.5 408 Q 151 392 152 391 Z\"/>\n    <g id=\"eye-1\" data-peek-eye=\"\">\n      <ellipse data-peek-white=\"\" cx=\"134\" cy=\"326.5\" rx=\"20\" ry=\"20.5\" fill=\"#FFFFFF\"/>\n      <ellipse data-peek-pupil=\"\" cx=\"134\" cy=\"326.5\" rx=\"9.000\" ry=\"9.225\" fill=\"#000000\"/>\n    </g>\n    <g id=\"eye-2\" data-peek-eye=\"\">\n      <ellipse data-peek-white=\"\" cx=\"180\" cy=\"326.5\" rx=\"20\" ry=\"20.5\" fill=\"#FFFFFF\"/>\n      <ellipse data-peek-pupil=\"\" cx=\"180\" cy=\"326.5\" rx=\"9.000\" ry=\"9.225\" fill=\"#000000\"/>\n    </g>\n  </g>\n</svg>\n";
+  const defaultLabel = "藏在吊灯里的眼睛";
+  if (customElements.get(tagName)) return;
+
+  class PeekingDoodle extends HTMLElement {
+    static get observedAttributes() { return ['label', 'tracking', 'blink', 'idle-ms']; }
+
+    constructor() {
+      super();
+      const shadow = this.attachShadow({ mode: 'open' });
+      shadow.innerHTML = `<style>
+        :host { display:inline-block; width:var(--peeking-size,240px); max-width:100%; vertical-align:middle; line-height:0; }
+        svg { display:block; width:100%; height:auto; overflow:visible; pointer-events:none; }
+      </style>${artwork}`;
+      this._svg = shadow.querySelector('svg');
+      this._svg.setAttribute('aria-hidden', 'true');
+      this._eyes = [...shadow.querySelectorAll('[data-peek-eye]')].map(group => {
+        const white = group.querySelector('[data-peek-white]');
+        const pupil = group.querySelector('[data-peek-pupil]');
+        const number = (el, attr) => Number(el.getAttribute(attr));
+        const cx = number(white, 'cx'), cy = number(white, 'cy');
+        const rx = number(white, 'rx'), ry = number(white, 'ry');
+        const ratio = Math.max(number(pupil, 'rx') / rx, number(pupil, 'ry') / ry);
+        // Conservative inner ellipse: pupil + offset remains inside the eye.
+        const factor = Math.max(0, 1 - ratio - 0.08);
+        const lid = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+        lid.setAttribute('data-peek-lid', '');
+        while (group.firstChild) lid.append(group.firstChild);
+        group.append(lid);
+        pupil.setAttribute('cx', cx);
+        pupil.setAttribute('cy', cy);
+        return { group, pupil, lid, cx, cy, a: rx * factor, b: ry * factor, x: 0, y: 0 };
+      });
+      this._raf = 0;
+      this._blinkTimer = this._openTimer = this._idleTimer = null;
+      this._pointer = null;
+      this._sleeping = false;
+      this._inView = true;
+    }
+
+    connectedCallback() {
+      this._abort?.abort();
+      this._abort = new AbortController();
+      const options = { passive: true, signal: this._abort.signal };
+      this._motion = matchMedia('(prefers-reduced-motion: reduce)');
+      this._inView = true;
+      this._lastTime = 0;
+      this._applyLabel();
+      const move = event => {
+        if (this.getAttribute('tracking') === 'off') return;
+        this._pointer = { x: event.clientX, y: event.clientY };
+        this._wake();
+        this._requestFrame();
+      };
+      window.addEventListener('pointermove', move, options);
+      window.addEventListener('pointerdown', move, options);
+      window.addEventListener('pointerout', event => { if (!event.relatedTarget) this._reset(); }, options);
+      window.addEventListener('blur', () => this._reset(), options);
+      window.addEventListener('scroll', () => this._requestFrame(), { ...options, capture: true });
+      window.addEventListener('resize', () => this._requestFrame(), options);
+      document.addEventListener('visibilitychange', () => this._refreshActivity(), options);
+      this._motion.addEventListener('change', () => this._refreshActivity(), options);
+      this._resize = new ResizeObserver(() => this._requestFrame());
+      this._resize.observe(this);
+      this._intersection = new IntersectionObserver(entries => {
+        this._inView = entries[0].isIntersecting;
+        this._refreshActivity();
+      });
+      this._intersection.observe(this);
+      this._refreshActivity();
+    }
+
+    disconnectedCallback() {
+      this._abort?.abort();
+      this._resize?.disconnect();
+      this._intersection?.disconnect();
+      this._stop();
+      this._pointer = null;
+      this._sleeping = false;
+      this._setLid(1);
+      this._eyes.forEach(eye => {
+        eye.x = eye.y = 0;
+        eye.pupil.setAttribute('cx', eye.cx);
+        eye.pupil.setAttribute('cy', eye.cy);
+      });
+    }
+
+    attributeChangedCallback(name) {
+      if (!this.isConnected) return;
+      if (name === 'label') this._applyLabel();
+      else {
+        if (name === 'tracking') this._reset();
+        this._refreshActivity();
+      }
+    }
+
+    _applyLabel() {
+      this.setAttribute('role', 'img');
+      this.setAttribute('aria-label', this.getAttribute('label') || defaultLabel);
+    }
+    _active() { return this.isConnected && this._inView && !document.hidden; }
+    _setLid(scale) {
+      this._eyes.forEach(eye => eye.lid.setAttribute('transform',
+        `translate(${eye.cx} ${eye.cy}) scale(1 ${scale}) translate(${-eye.cx} ${-eye.cy})`));
+    }
+    _stop() {
+      cancelAnimationFrame(this._raf);
+      this._raf = 0;
+      for (const key of ['_blinkTimer', '_openTimer', '_idleTimer']) {
+        clearTimeout(this[key]);
+        this[key] = null;
+      }
+    }
+    _refreshActivity() {
+      this._stop();
+      this._sleeping = false;
+      this._setLid(1);
+      if (!this._active()) return;
+      this._wake();
+      this._requestFrame();
+    }
+    _wake() {
+      clearTimeout(this._idleTimer);
+      this._idleTimer = null;
+      if (this._sleeping) { this._sleeping = false; this._setLid(1); }
+      const idle = Number(this.getAttribute('idle-ms'));
+      if (this._active() && !this._motion.matches && Number.isFinite(idle) && idle > 0) {
+        this._idleTimer = setTimeout(() => {
+          this._idleTimer = null;
+          this._sleeping = true;
+          clearTimeout(this._openTimer);
+          this._openTimer = null;
+          this._setLid(0.04);
+        }, idle);
+      }
+      this._scheduleBlink();
+    }
+    _scheduleBlink() {
+      if (this._blinkTimer !== null || !this._active() || this._motion.matches || this.getAttribute('blink') === 'off') return;
+      this._blinkTimer = setTimeout(() => {
+        this._blinkTimer = null;
+        if (!this._sleeping) {
+          this._setLid(0.04);
+          this._openTimer = setTimeout(() => {
+            this._openTimer = null;
+            if (!this._sleeping) this._setLid(1);
+          }, 130);
+        }
+        this._scheduleBlink();
+      }, 2400 + Math.random() * 4000);
+    }
+    _reset() {
+      this._pointer = null;
+      this._wake();
+      this._requestFrame();
+    }
+    _requestFrame() {
+      if (!this._raf && this._active()) this._raf = requestAnimationFrame(time => this._tick(time));
+    }
+    _tick(time) {
+      this._raf = 0;
+      if (!this._active()) return;
+      const matrices = this._eyes.map(eye => eye.group.getScreenCTM());
+      if (matrices.some(matrix => !matrix || Math.abs(matrix.a * matrix.d - matrix.b * matrix.c) < 1e-10)) return;
+      const centers = this._eyes.map((eye, index) => new DOMPoint(eye.cx, eye.cy).matrixTransform(matrices[index]));
+      const center = centers.reduce((sum, point) => ({ x: sum.x + point.x / centers.length, y: sum.y + point.y / centers.length }), { x: 0, y: 0 });
+      const pointer = this.getAttribute('tracking') === 'off' ? null : this._pointer;
+      const dx = pointer ? pointer.x - center.x : 0;
+      const dy = pointer ? pointer.y - center.y : 0;
+      const strength = Math.min(1, Math.hypot(dx, dy) / 140);
+      const dt = this._lastTime ? Math.min(64, time - this._lastTime) : 16;
+      this._lastTime = time;
+      const ease = this._motion.matches ? 1 : 1 - Math.exp(-dt / 55);
+      let unsettled = false;
+      this._eyes.forEach((eye, index) => {
+        const inverse = matrices[index].inverse();
+        const vectorX = inverse.a * dx + inverse.c * dy;
+        const vectorY = inverse.b * dx + inverse.d * dy;
+        const length = eye.a && eye.b ? Math.hypot(vectorX / eye.a, vectorY / eye.b) : 0;
+        const tx = length ? vectorX / length * strength : 0;
+        const ty = length ? vectorY / length * strength : 0;
+        eye.x += (tx - eye.x) * ease;
+        eye.y += (ty - eye.y) * ease;
+        if (Math.hypot(tx - eye.x, ty - eye.y) > 0.01) unsettled = true;
+        else { eye.x = tx; eye.y = ty; }
+        eye.pupil.setAttribute('cx', (eye.cx + eye.x).toFixed(4));
+        eye.pupil.setAttribute('cy', (eye.cy + eye.y).toFixed(4));
+      });
+      if (unsettled) this._requestFrame();
+      else this._lastTime = 0;
+    }
+  }
+  customElements.define(tagName, PeekingDoodle);
+})();

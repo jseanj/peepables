@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Peepables</title>
+  <style>
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    html, body {
+      width: 100%;
+      min-height: 100vh;
+      background: #FFFFFF;
+      overflow-x: hidden;
+      user-select: none;
+      -webkit-user-select: none;
+    }
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 48px 32px;
+    }
+    .stage {
+      width: 100%;
+      max-width: 1200px;
+      margin: auto;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 40px 32px;
+      justify-items: center;
+      align-items: center;
+    }
+    .item {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      max-width: 240px;
+      aspect-ratio: 1;
+      transition: transform 0.28s cubic-bezier(0.34, 1.56, 0.64, 1);
+    }
+    .item:hover {
+      transform: scale(1.06);
+    }
+    .item > * {
+      --peeking-size: 100%;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    @media (max-width: 960px) {
+      body {
+        padding: 36px 20px;
+      }
+      .stage {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 32px 20px;
+      }
+      .item {
+        max-width: 210px;
+      }
+    }
+    @media (max-width: 600px) {
+      body {
+        padding: 24px 12px;
+      }
+      .stage {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px 12px;
+      }
+      .item {
+        max-width: 180px;
+      }
+    }
+  </style>
+  <script src="./examples/party-hat-widget/widget.js" defer></script>
+  <script src="./examples/hanging-lamp-widget/widget.js" defer></script>
+  <script src="./examples/birthday-cake-widget/widget.js" defer></script>
+  <script src="./examples/gift-box-widget/widget.js" defer></script>
+  <script src="./examples/balloon-widget/widget.js" defer></script>
+  <script src="./examples/coffee-mug-widget/widget.js" defer></script>
+  <script src="./examples/cupcake-widget/widget.js" defer></script>
+  <script src="./examples/shopping-bag-widget/widget.js" defer></script>
+  <script src="./examples/open-book-widget/widget.js" defer></script>
+  <script src="./examples/camera-widget/widget.js" defer></script>
+  <script src="./examples/laptop-widget/widget.js" defer></script>
+  <script src="./examples/envelope-widget/widget.js" defer></script>
+</head>
+<body>
+  <main class="stage" aria-label="Peepables Demo">
+    <div class="item"><peek-party-hat></peek-party-hat></div>
+    <div class="item"><peek-hanging-lamp></peek-hanging-lamp></div>
+    <div class="item"><peek-birthday-cake></peek-birthday-cake></div>
+    <div class="item"><peek-gift-box></peek-gift-box></div>
+    <div class="item"><peek-balloon></peek-balloon></div>
+    <div class="item"><peek-coffee-mug></peek-coffee-mug></div>
+    <div class="item"><peek-cupcake></peek-cupcake></div>
+    <div class="item"><peek-shopping-bag></peek-shopping-bag></div>
+    <div class="item"><peek-open-book></peek-open-book></div>
+    <div class="item"><peek-camera></peek-camera></div>
+    <div class="item"><peek-laptop></peek-laptop></div>
+    <div class="item"><peek-envelope></peek-envelope></div>
+  </main>
+</body>
+</html>

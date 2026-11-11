@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>藏在手提袋里的眼睛 · 偷看涂鸦</title>
+<style>
+body{margin:0;background:#fff;color:#000;font-family:system-ui,sans-serif}
+main{max-width:960px;margin:auto;padding:56px 24px}h1{font-size:30px;margin:0 0 12px}
+p{line-height:1.7}.gallery{display:flex;align-items:center;flex-wrap:wrap;gap:40px;padding:35px 0}
+figure{margin:0}figcaption{text-align:center;font-size:14px}pre{white-space:pre-wrap;overflow-wrap:anywhere;padding:20px;border:2px solid #000;border-radius:16px;line-height:1.6}
+button{background:#fff;color:#000;border:2px solid #000;border-radius:20px;padding:10px 20px;cursor:pointer}
+</style><main><h1>藏在手提袋里的眼睛</h1><p>移动鼠标，看看藏在里面的小家伙。也可以触摸屏幕。试着滚动页面，或者同时观察大小不同的两个组件。</p>
+<div class="gallery"><figure><peek-shopping-bag label="藏在手提袋里的眼睛" style="--peeking-size:360px"></peek-shopping-bag><figcaption>默认跟随 · 自然眨眼</figcaption></figure>
+<figure><peek-shopping-bag style="--peeking-size:180px" idle-ms="3500"></peek-shopping-bag><figcaption>小尺寸 · 闲置时闭眼</figcaption></figure></div>
+<h2>放进你的网页</h2><p>将 widget.js 放入网站资源目录，再粘贴下面两行；按文件位置修改脚本路径。</p><pre>&lt;script src=&quot;./widget.js&quot; defer&gt;&lt;/script&gt;
+&lt;peek-shopping-bag label=&quot;藏在手提袋里的眼睛&quot; style=&quot;--peeking-size: 240px&quot;&gt;&lt;/peek-shopping-bag&gt;
+</pre>
+<p>一个脚本可支持同页多个同款组件。组件背景透明，尺寸可调整，不会阻止页面滚动或按钮点击。</p>
+<button id="demo-button" onclick="this.textContent='按钮可以正常使用'">试试页面按钮</button>
+<div style="height:700px" aria-hidden="true"></div><p>到这里也可以滚动和移动鼠标。</p></main><script src="./widget.js" defer></script></html>
