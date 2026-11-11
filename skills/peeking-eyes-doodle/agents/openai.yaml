@@ -1,0 +1,4 @@
+interface:
+  display_name: "黑白偷看涂鸦组件"
+  short_description: "生成眼睛随鼠标移动的黑白涂鸦网页小组件，附可编辑 SVG 和接入示例"
+  default_prompt: "请用 $peeking-eyes-doodle 生成一个咖啡杯网页组件，眼睛藏在杯口并随鼠标移动，交付可嵌入网页的 JS、SVG 和演示页。"

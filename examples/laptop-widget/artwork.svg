@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" stroke="#000000" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+  <title>Peeking Eyes Doodle — laptop</title>
+  <desc>A white open laptop with a pair of eyes peeking left from the dark lower edge inside its screen.</desc>
+  <g id="screen">
+    <path fill="#FFFFFF" d="M252 204 Q248 187 271 185 L775 197 Q795 198 795 220 L772 627 L235 618 Z"/>
+    <path fill="#FFFFFF" d="M281 233 Q280 226 292 227 L751 238 Q758 238 757 252 L738 577 L268 569 Z"/>
+    <path id="screen-recess" fill="#000000" stroke="none" d="M272 508 Q354 497 428 514 Q487 518 543 504 Q614 492 675 506 Q711 514 742 502 L738 577 L268 569 Z"/>
+    <g id="eyes" stroke="none">
+      <g data-peek-eye="" transform="rotate(-5 460 542)">
+        <ellipse data-peek-white="" id="left-eye-white" fill="#FFFFFF" cx="460" cy="542" rx="21" ry="22"/>
+        <ellipse data-peek-pupil="" id="left-pupil" fill="#000000" cx="452" cy="544" rx="8" ry="10"/>
+      </g>
+      <g data-peek-eye="" transform="rotate(5 524 542)">
+        <ellipse data-peek-white="" id="right-eye-white" fill="#FFFFFF" cx="524" cy="542" rx="21" ry="22"/>
+        <ellipse data-peek-pupil="" id="right-pupil" fill="#000000" cx="516" cy="544" rx="8" ry="10"/>
+      </g>
+    </g>
+    <path d="M268 569 L738 577"/>
+  </g>
+  <g id="base">
+    <path fill="#FFFFFF" d="M235 618 L772 627 L871 788 Q879 800 858 804 L165 800 Q145 798 154 782 Z"/>
+    <path fill="#FFFFFF" d="M154 787 Q191 793 238 791 L871 792 L865 817 Q862 837 834 837 L190 832 Q166 831 161 815 Z"/>
+    <g id="keyboard" stroke-width="10">
+      <path d="M290 655 L727 663 M274 686 L746 693 M254 720 L766 727"/>
+      <path d="M342 657 L326 719 M412 658 L403 722 M483 659 L480 723 M554 660 L558 724 M625 662 L636 725 M693 663 L713 726"/>
+    </g>
+    <path id="trackpad" stroke-width="10" d="M437 747 Q486 745 572 749 L586 775 L422 772 Z"/>
+  </g>
+</svg>

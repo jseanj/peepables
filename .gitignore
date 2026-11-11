@@ -1,0 +1,9 @@
+# Local OS and language caches
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+
+# Local generated experiments
+/output/
