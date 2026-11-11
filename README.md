@@ -1,12 +1,14 @@
 # Peepables
 
-[English](#english) | [中文说明](#peepables-黑白偷看涂鸦)
+[English](#english) | [中文说明](#peepables-黑白偷看涂鸦) | [Live Demo 在线演示](https://jseanj.github.io/peepables/)
 
 ---
 
 ## English
 
 **Little things. Curious eyes.**
+
+**Live Demo:** [https://jseanj.github.io/peepables/](https://jseanj.github.io/peepables/)
 
 Peepables creates black-and-white doodle widgets with a pair of eyes peeking from inside everyday objects. The pupils follow your cursor, blink naturally, and stay inside their eye whites.
 
@@ -103,6 +105,8 @@ node skills/peeking-eyes-doodle/scripts/test_widget.mjs \
 ## Peepables · 黑白偷看涂鸦
 
 **小物件，好奇的眼睛。**
+
+**在线演示地址：** [https://jseanj.github.io/peepables/](https://jseanj.github.io/peepables/)
 
 Peepables 是一套极简趣味的黑白手绘涂鸦网页小组件。每个日常物品暗处都藏着一双好奇的小眼睛，眼神随光标或触摸同向平滑移动，瞳孔在眼白内受物理约束自然回转，支持随机眨眼与闲置闭眼。
 
