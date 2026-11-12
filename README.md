@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="./preview.png" width="100%" alt="Peepables — Little things. Curious eyes.">
+</p>
+
 # Peepables
 
-[English](#english) | [中文说明](#peepables-黑白偷看涂鸦) | [Live Demo 在线演示](https://jseanj.github.io/peepables/)
+[English](#english) · [中文说明](#中文说明) · [Live Demo 在线演示](https://jseanj.github.io/peepables/)
 
 ---
 
@@ -8,17 +12,49 @@
 
 **Little things. Curious eyes.**
 
-**Live Demo:** [https://jseanj.github.io/peepables/](https://jseanj.github.io/peepables/)
-
 Peepables creates black-and-white doodle widgets with a pair of eyes peeking from inside everyday objects. The pupils follow your cursor, blink naturally, and stay inside their eye whites.
 
-A reusable Codex skill draws editable native SVG and packages it as a dependency-free Web Component. Drop one JavaScript file and one custom element into your page.
+A reusable Agent skill draws editable native SVG and packages it as a dependency-free Web Component. Drop one JavaScript file and one custom element into your page.
 
-![Peepables gallery preview](preview.png)
+### Demo
 
-### Try the demo page
+[![Peepables interactive cursor-tracking demo](./assets/readme/demo.gif)](./assets/readme/demo.mp4)
 
-Open [`index.html`](index.html) (or [`examples/index.html`](examples/index.html)) locally in any browser. It showcases all 12 widgets in a clean, borderless, text-free layout where every item actively follows pointer movement and touch input.
+> 🎬 **MP4 Video**: [`assets/readme/demo.mp4`](./assets/readme/demo.mp4) · 🌐 **Live Interactive Page**: [https://jseanj.github.io/peepables/](https://jseanj.github.io/peepables/)
+
+### Install the Skill
+
+Hand the repository URL directly to your Agent:
+
+```text
+Install https://github.com/jseanj/peepables as a skill.
+```
+
+Or install via CLI:
+
+```bash
+npx skills add jseanj/peepables
+```
+
+Or clone manually into Codex skills:
+
+```bash
+git clone https://github.com/jseanj/peepables.git "$HOME/.codex/skills/peeking-eyes-doodle"
+```
+
+Invoke it with a description of any object:
+
+```text
+Use $peeking-eyes-doodle to create a coffee mug widget.
+Hide the eyes in the dark opening of the mug and make them follow the cursor.
+Deliver the embeddable JavaScript, editable SVG, and a working demo page.
+```
+
+The skill references [`assets/style-reference.png`](assets/style-reference.png) for line weight, eye proportions, and visual rhythm before drawing.
+
+### Try & Embed Widgets
+
+Open the live demo at [https://jseanj.github.io/peepables/](https://jseanj.github.io/peepables/) (or open [`index.html`](index.html) locally in any browser). It showcases all 12 widgets in a clean, borderless, text-free layout where every item actively follows pointer movement and touch input.
 
 To embed any single widget, copy its directory from `examples/` (or just `widget.js`) into your website and add:
 
@@ -29,7 +65,7 @@ To embed any single widget, copy its directory from `examples/` (or just `widget
 
 Adjust the script path to match your website assets. Load the script once and reuse the element as many times as you like. No npm packages, frameworks, CDN, or runtime network requests are required.
 
-### Included widgets
+### Included Widgets
 
 All 11 items from the reference sheet plus the laptop example:
 
@@ -48,25 +84,7 @@ All 11 items from the reference sheet plus the laptop example:
 | Envelope | `<peek-envelope>` | Pocket opening behind the letter |
 | Laptop | `<peek-laptop>` | Lower interior edge of the screen |
 
-### Install the Codex skill
-
-```bash
-git clone https://github.com/jseanj/peepables.git
-mkdir -p "$HOME/.codex/skills"
-cp -R peepables/skills/peeking-eyes-doodle "$HOME/.codex/skills/"
-```
-
-Invoke it with a description of the object:
-
-```text
-Use $peeking-eyes-doodle to create a coffee mug widget.
-Hide the eyes in the dark opening of the mug and make them follow the cursor.
-Deliver the embeddable JavaScript, editable SVG, and a working demo page.
-```
-
-The skill references [assets/style-reference.png](skills/peeking-eyes-doodle/assets/style-reference.png) for line weight, eye proportions, and visual rhythm before drawing.
-
-### Widget controls
+### Widget Controls
 
 | Attribute / style | Behavior |
 | --- | --- |
@@ -78,49 +96,74 @@ The skill references [assets/style-reference.png](skills/peeking-eyes-doodle/ass
 
 Widgets support responsive sizing, page scrolling, rotated artwork, multiple instances, and passive touch input. Reduced-motion preferences disable easing, automatic blinking, and idle sleep while retaining direct gaze tracking.
 
-### Generate a widget from SVG
+### Generate a Widget from SVG
 
-Use Python 3 to validate and package native SVG:
+Use Python 3 to validate and package native SVG (see [`references/widget.md`](references/widget.md)):
 
 ```bash
-python3 skills/peeking-eyes-doodle/scripts/validate_svg.py --interactive \
-  skills/peeking-eyes-doodle/assets/party-hat.svg
+python3 scripts/validate_svg.py --interactive assets/party-hat.svg
 
-python3 skills/peeking-eyes-doodle/scripts/build_widget.py \
-  skills/peeking-eyes-doodle/assets/party-hat.svg \
+python3 scripts/build_widget.py \
+  assets/party-hat.svg \
   --out output/party-hat-widget \
   --tag peek-party-hat \
   --label "Eyes peeking from a party hat"
 ```
 
-### Browser checks
+### Browser Checks
 
 ```bash
-node skills/peeking-eyes-doodle/scripts/test_widget.mjs \
-  examples/party-hat-widget/index.html
+node scripts/test_widget.mjs examples/party-hat-widget/index.html
 ```
 
 ---
 
-## Peepables · 黑白偷看涂鸦
+## 中文说明
 
 **小物件，好奇的眼睛。**
 
-**在线演示地址：** [https://jseanj.github.io/peepables/](https://jseanj.github.io/peepables/)
+**Peepables（黑白偷看涂鸦）** 是一套极简趣味的黑白手绘网页小组件与 Agent Skill。每个日常物品暗处都藏着一双好奇的小眼睛，眼神随光标或触摸同向平滑移动，瞳孔在眼白内受几何边界约束自然回转，支持随机眨眼与闲置闭眼。
 
-Peepables 是一套极简趣味的黑白手绘涂鸦网页小组件。每个日常物品暗处都藏着一双好奇的小眼睛，眼神随光标或触摸同向平滑移动，瞳孔在眼白内受物理约束自然回转，支持随机眨眼与闲置闭眼。
+基于原生 SVG 与零依赖 Web Component，只需引入一个 JS 文件和一个自定义元素标签，即可无缝嵌入任何网页。
 
-基于原生 SVG 与零依赖的 Web Component，只需引入一个 JS 文件和一个自定义元素标签，即可无缝嵌入任何网页。
+### 演示
 
-### 体验全景演示页
+[![Peepables 鼠标跟随效果演示](./assets/readme/demo.gif)](./assets/readme/demo.mp4)
 
-在浏览器中直接打开根目录下的 [`index.html`](index.html)（或 [`examples/index.html`](examples/index.html)）。
+> 🎬 **MP4 高清演示视频**：[`assets/readme/demo.mp4`](./assets/readme/demo.mp4) · 🌐 **在线交互演示页**：[https://jseanj.github.io/peepables/](https://jseanj.github.io/peepables/)
 
-演示页采用纯视觉排版，**不含任何文本干扰**，将参考图中的所有物品以网格自适应呈现。移动鼠标即可与页面上的全部小物件实时交互，感受视线同向跟随与眨眼的趣味效果。
+### 安装 Skill
 
-### 接入你的网页
+直接把仓库地址交给你的 Agent：
 
-将所需组件目录（例如 `examples/coffee-mug-widget/`）内的 `widget.js` 复制到你的网站中，粘贴两行代码：
+```text
+帮我安装 https://github.com/jseanj/peepables 这个 Skill。
+```
+
+或使用命令一键安装（根目录即 Skill 包结构）：
+
+```bash
+npx skills add jseanj/peepables
+```
+
+或手动克隆到 Codex skills 目录：
+
+```bash
+git clone https://github.com/jseanj/peepables.git "$HOME/.codex/skills/peeking-eyes-doodle"
+```
+
+在对话中用中文或英文描述任意物品需求即可生成：
+
+```text
+用 $peeking-eyes-doodle 生成一个咖啡杯网页组件，
+眼睛藏在杯口并随鼠标移动，交付 JS、可编辑 SVG 和演示页。
+```
+
+### 体验演示页与接入网页
+
+访问在线演示页 **[https://jseanj.github.io/peepables/](https://jseanj.github.io/peepables/)**（或在浏览器直接打开本地 [`index.html`](index.html)）。演示页采用纯视觉无文字排版，将参考图中的所有物品以网格自适应呈现，移动鼠标或触摸即可与全部小物件实时互动。
+
+将所需组件目录（例如 `examples/coffee-mug-widget/`）内的 `widget.js` 复制到你的网站中，粘贴两行代码即可使用：
 
 ```html
 <script src="./coffee-mug-widget/widget.js" defer></script>
@@ -149,23 +192,6 @@ Peepables 是一套极简趣味的黑白手绘涂鸦网页小组件。每个日�
 | 信封信件 | `<peek-envelope>` | 打开折叠信封口内侧（含露出的一纸信件） |
 | 笔记本电脑 | `<peek-laptop>` | 打开屏幕内侧下缘暗部（含键盘与触控板） |
 
-### 安装与使用 Codex 技能
-
-你可以将本项目的生成技能安装到 Codex 中，生成任意新物品：
-
-```bash
-git clone https://github.com/jseanj/peepables.git
-mkdir -p "$HOME/.codex/skills"
-cp -R peepables/skills/peeking-eyes-doodle "$HOME/.codex/skills/"
-```
-
-在对话中用中文或英文描述物品需求即可：
-
-```text
-用 $peeking-eyes-doodle 生成一个咖啡杯网页组件，
-眼睛藏在杯口并随鼠标移动，交付 JS、可编辑 SVG 和演示页。
-```
-
 ### 组件属性与控制
 
 所有组件均支持以下属性与样式配置，可在运行时动态更改：
@@ -188,12 +214,11 @@ cp -R peepables/skills/peeking-eyes-doodle "$HOME/.codex/skills/"
 
 ```bash
 # 1. 校验 SVG 规范（包括黑白单色、圆角轮廓、两组眼睛与标记）
-python3 skills/peeking-eyes-doodle/scripts/validate_svg.py --interactive \
-  skills/peeking-eyes-doodle/assets/coffee-mug.svg
+python3 scripts/validate_svg.py --interactive assets/coffee-mug.svg
 
 # 2. 一键打包为独立 Web Component 组件目录
-python3 skills/peeking-eyes-doodle/scripts/build_widget.py \
-  skills/peeking-eyes-doodle/assets/coffee-mug.svg \
+python3 scripts/build_widget.py \
+  assets/coffee-mug.svg \
   --out output/coffee-mug-widget \
   --tag peek-coffee-mug \
   --label "藏在咖啡杯里的眼睛"
@@ -211,41 +236,26 @@ python3 skills/peeking-eyes-doodle/scripts/build_widget.py \
 内置测试脚本基于原生 Node.js 与 Chrome DevTools Protocol 进行全自动无头交互验证：
 
 ```bash
-node skills/peeking-eyes-doodle/scripts/test_widget.mjs \
-  examples/coffee-mug-widget/index.html
+node scripts/test_widget.mjs examples/coffee-mug-widget/index.html
 ```
 
-覆盖左右跟随、瞳孔边界碰撞、缩放旋转、滚动响应、减少动态模式、闲置闭眼唤醒、组件卸载重挂载以及页面按钮互不干扰等 10 项核心检查。
+覆盖左右跟随、瞳孔边界碰撞、缩放旋转、滚动响应、减少动态模式、闲置闭眼唤醒、组件卸载重挂载以及页面按钮互不干扰等核心检查。
 
 ### 项目目录结构
 
 ```text
 peepables/
-├── index.html                           # 根目录全景演示页（纯视觉无文字布局，包含全部 12 款组件）
-├── preview.png                          # 全组件演示效果预览截图
-├── README.md                            # 中英文项目文档
-├── examples/
-│   ├── index.html                       # 演示页备份与示例目录
-│   ├── party-hat-widget/                # 派对帽组件（JS、SVG、独立 demo 与接入说明）
-│   ├── hanging-lamp-widget/             # 吊灯组件
-│   ├── birthday-cake-widget/            # 生日蛋糕组件
-│   ├── gift-box-widget/                 # 礼物盒组件
-│   ├── balloon-widget/                  # 气球组件
-│   ├── coffee-mug-widget/               # 咖啡杯组件
-│   ├── cupcake-widget/                  # 纸杯蛋糕组件
-│   ├── shopping-bag-widget/             # 购物手提袋组件
-│   ├── open-book-widget/                # 打开的书组件
-│   ├── camera-widget/                   # 复古相机组件
-│   ├── envelope-widget/                 # 信封信件组件
-│   └── laptop-widget/                   # 笔记本电脑组件
-└── skills/peeking-eyes-doodle/          # 可安装的 Codex 技能包
-    ├── SKILL.md                         # 技能指导规范
-    ├── assets/                          # 11 款 SVG 矢量源文件与参考图
-    │   ├── style-reference.png          # 官方手绘贴纸参考图
-    │   └── *.svg                        # 全部物品原生 SVG
-    └── scripts/                         # 校验、打包与测试脚本工具
-        ├── validate_svg.py              # SVG 规范校验器
-        ├── build_widget.py              # Web Component 打包工具
-        ├── render_svg.py                # 矢量转 PNG 预览工具
-        └── test_widget.mjs              # 浏览器自动化测试脚本
+├── SKILL.md                    # Skill 核心定义与创作规范
+├── agents/                     # Agent UI 配置元数据
+├── assets/                     # 参考图、12 款 SVG 源文件、组件模板与 README 演示视频
+│   ├── style-reference.png     # 官方手绘贴纸参考图
+│   ├── readme/demo.mp4         # README 交互演示视频（含 demo.gif 动图预览）
+│   ├── widget/component.js     # 零依赖 Web Component 运行时模板
+│   └── *.svg                   # 全部物品原生可编辑 SVG
+├── references/                 # 网页组件开发规范文档
+├── scripts/                    # 校验、打包、渲染与浏览器自动化测试脚本
+├── examples/                   # 全部 12 款开箱即用的独立组件目录与示例页
+├── index.html                  # GitHub Pages 根目录全景演示页（无文字纯视觉布局）
+├── preview.png                 # README 开头展示图
+└── README.md                   # 中英文说明文档
 ```
